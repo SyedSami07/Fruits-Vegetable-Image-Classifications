@@ -1,4 +1,5 @@
-[![Watch Demo](assets/demo-thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/-29q3zGf_Gs))
+[![Watch Demo](assets/demo-thumbnail.png)](https://youtu.be/-29q3zGf_Gs)
+
 
 # 🥦 Fruits & Vegetables Image Classification
 
