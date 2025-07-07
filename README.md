@@ -1,3 +1,5 @@
+[![Watch Demo](assets/demo-thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/-29q3zGf_Gs))
+
 # 🥦 Fruits & Vegetables Image Classification
 
 This is a machine learning-based image classification project that identifies different types of fruits and vegetables using a trained deep learning model built with TensorFlow. The project also features a simple and interactive web interface powered by Streamlit.
