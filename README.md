@@ -32,8 +32,6 @@ This is a machine learning-based image classification project that identifies di
 - Model Type: Sequential CNN
 - Saved model format: `.keras`
 
-📁 [Download Dataset (Google Drive)](
-https://drive.google.com/file/d/1SiYhPOTfo5EFAzaUT1Jdf5G9j93UX0rX/view?usp=sharing)
 
 🖥️ How to Run the App
 
