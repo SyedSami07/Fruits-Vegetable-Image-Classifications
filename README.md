@@ -1,5 +1,5 @@
 📽️ [Watch Demo Video](https://youtu.be/-29q3zGf_Gs)
-
+📽️ [Project PPT Slide](https://docs.google.com/presentation/d/1CNwSbBuj16w-7eIoJLB2fshoPD-fXSDJ/edit?usp=sharing&ouid=102369547434363917357&rtpof=true&sd=true)
 
 # 🥦 Fruits & Vegetables Image Classification
 
